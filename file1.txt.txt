@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Adding ttttttin master
 kyonki tum hi ho
 Adding again in mastr
 Great
 amit
 welcome to my computer
-=======
->>>>>>> 8932147 (Update file1.txt.txt)
